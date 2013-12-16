@@ -1,0 +1,575 @@
+﻿body {
+    margin: 0px;
+    background-color: #E4E4E4;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../话费充值_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1366px;
+    height:210px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1372px;
+    height:216px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:97px;
+    width:1362px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../话费充值_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:209px;
+    top:20px;
+    width:211px;
+    height:208px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:211px;
+    height:208px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:96px;
+    width:207px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../话费充值_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:441px;
+    top:20px;
+    width:329px;
+    height:190px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:329px;
+    height:190px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:87px;
+    width:325px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:1029px;
+    top:34px;
+    width:31px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:1070px;
+    top:34px;
+    width:30px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../话费充值_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:0px;
+    top:210px;
+    width:1366px;
+    height:70px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1372px;
+    height:76px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:1362px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:441px;
+    top:232px;
+    width:499px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u11_normal {
+    background-image: url('../话费充值_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:200px;
+    top:210px;
+    width:140px;
+    height:70px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:76px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:136px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:210px;
+    top:227px;
+    width:120px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:1029px;
+    top:232px;
+    width:70px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u15_normal {
+    background-image: url('../话费充值_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:1029px;
+    top:93px;
+    width:87px;
+    height:24px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:93px;
+    height:30px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:83px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_container {
+    position:absolute;
+    left:1029px;
+    top:93px;
+    width:25px;
+    height:24px;
+}
+
+#u17_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:25px;
+    height:24px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:114px;
+    top:350px;
+    width:1166px;
+    height:46px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:114px;
+    top:440px;
+    width:1166px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:123px;
+    top:504px;
+    width:1157px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:495px;
+    top:564px;
+    width:99px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:614px;
+    top:563px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u24 {
+    position:absolute;
+    left:495px;
+    top:616px;
+    width:99px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:496px;
+    top:666px;
+    width:99px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:42px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:42px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:42px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:42px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:645px;
+    top:755px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u39_normal {
+    background-image: url('../话费充值_files/u15_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:1029px;
+    top:136px;
+    width:87px;
+    height:24px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:93px;
+    height:30px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:83px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
